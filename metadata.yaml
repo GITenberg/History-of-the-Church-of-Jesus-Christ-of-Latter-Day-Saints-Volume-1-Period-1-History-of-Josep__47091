@@ -1,4 +1,8 @@
 _repo: History-of-the-Church-of-Jesus-Christ-of-Latter-Day-Saints-Volume-1-Period-1-History-of-Josep__47091
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47091-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Joseph, Jr.
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/12
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Smith%2C_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47091#History-of-the-Church-of-Jesus-Christ-of-Latter-Day-Saints-Volume-1-Period-1-History-of-Josep_
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2014-10-11'
 gutenberg_type: Text
