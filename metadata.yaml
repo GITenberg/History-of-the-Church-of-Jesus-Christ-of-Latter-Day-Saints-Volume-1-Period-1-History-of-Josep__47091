@@ -24,6 +24,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: "History of the Church of Jesus Christ of Latter-Day Saints, Volume 1\r\nPeriod\
   \ 1. History of Joseph Smith, the Prophet"
 url: http://www.gutenberg.org/ebooks/47091
